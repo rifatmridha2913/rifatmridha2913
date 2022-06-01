@@ -6,3 +6,4 @@ Gitname: 		rifat.mridha2913@gmail.com
 ********************************************************************************/
 
 Testing branch created --> 202206_testing_branch
+Testing Sublime Merge  --> 202206_testing_sublimemerge
